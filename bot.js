@@ -6,7 +6,7 @@ const prefix = "$";
 
 client.on('ready', () => {
     console.log(`${client.user.tag} Is Online !`) 
-    client.user.setGame(`AGC - Ticket bot`)
+    client.user.setGame(`- Imagine , Tickets `)
 });
 
 
